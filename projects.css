@@ -2,6 +2,16 @@ body {
 	background-color: #f2f2f2;
 }
 
+nav {
+	text-align: justify;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px pink;
+	border: 10px;
+	word-spacing: 70px;
+	display: inline;
+}
+
 hr {
   	border:none;
   	height: 20px;
@@ -16,7 +26,7 @@ hr {
 h2 {
 	text-align: justify;
 	border: 10px;
-	font-family: Papyrus, Geneva, sans-serif;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px black;
 	text-decoration: underline;
@@ -25,7 +35,7 @@ h2 {
 
 h3, h4, li {
 	text-align: justify;
-	font-family: Papyrus, Geneva, sans-serif;
-	font-style: italic;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
+	font-style: italic;
 }

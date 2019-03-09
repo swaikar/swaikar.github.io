@@ -15,31 +15,33 @@ body {
 h2 {
 	text-align: center;
 	border: 5px;
-	font-family: Papyrus, Geneva, sans-serif;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px black;
 }
 
 h3 {
 	text-align: center;
-	font-family: Papyrus, Geneva, sans-serif;
-	font-style: italic;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
+	font-style: italic;
 }
 
 nav {
 	text-align: center;
-	font-family: Papyrus, Geneva, sans-serif;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
 	text-shadow: 1px 1px 2px pink;
 	border: 10px;
+	word-spacing: 30px;
 }
 
 
 section {
 	text-align: center;
-	font-family: Papyrus, Geneva, sans-serif;
-	font-style: italic;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
 	font-weight: bold;
+	font-style: italic;
+	font-size: 15px;
 }
 
